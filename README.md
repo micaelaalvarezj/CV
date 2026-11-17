@@ -1,19 +1,23 @@
 # Hola Mundo, :wave: soy Micaela Álvarez
 
-### Soy especialista en **Marketing** con más de ocho años de experiencia. Certificada en email *Salesforce Specialist Marketing Cloud*. Consólidos conocimientos de programación web front-end y back-end. Interesada en desarrollarme en la gestión de proyectos de email marketing
+### :woman_technologist: Soy especialista en **Marketing** con más de ocho años de experiencia. Certificada en email *Salesforce Specialist Marketing Cloud*. Consólidos conocimientos de programación web front-end y back-end. Interesada en desarrollarme en la gestión de proyectos de email marketing
 
-## Competencias
+## :hammer_and_wrench: Competencias
 
-- 📫 Email Automation
-- ✍️ Copywriting
-- 🎨 Diseño responsive
+- Email Automation
+- Copywriting
+- Diseño responsive
 
-## Lenguajes que domino
+## 💻 Lenguajes y tecnologías
 
-1. HTML
-2. CSS
+| Lenguajes que domino | Lenguajes que estoy aprendiendo |
+|:---:|:---:|
+| ![HTML5](https://skillicons.dev/icons?i=html) **HTML** | ![Python](https://skillicons.dev/icons?i=python) **Python** |
+| ![CSS3](https://skillicons.dev/icons?i=css) **CSS** | ![SQL](https://skillicons.dev/icons?i=mysql) **SQL** |
 
-## Lenguajes que estoy aprendiendo
+## :globe_with_meridians: Idiomas 
 
-1. PYTHON
-2. SQL
+- Castellano
+- Catalán
+- Inglés
+- Fracés

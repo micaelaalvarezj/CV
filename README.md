@@ -17,5 +17,3 @@
 
 1. PYTHON
 2. SQL
-
-![salesforce badge] (https://time-technology.com/wp-content/uploads/2024/10/Marketing-Cloud-Email-Specialist.png)
